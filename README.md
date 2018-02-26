@@ -6,6 +6,8 @@ Trie.h/.cpp - A trie data structure for storing a dictionary of words with lower
 
 Node.h/.cpp - A helper class to the trie
 
+Sprite Editor - https://github.com/ChristianIsaacRoy/SpriteEditor, made with QT
+
 # C Code Samples
 mm.c - A memory allocator written in C, November 2016
 
