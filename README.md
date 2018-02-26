@@ -1,6 +1,10 @@
 # CodeSamples
 Various Code Samples written by Christian Roy
 
+# C++ Code Samples
+Trie.h/.cpp - A trie data structure for storing a dictionary of words with lowercase letters
+Node.h/.cpp - A helper class to the trie
+
 # C Code Samples
 mm.c - A memory allocator written in C, November 2016
 
